@@ -24,7 +24,7 @@ h1{
 	clear:both;
 	padding: 15px;
 	margin-top: 20px;
-	border: solid 1px #ddd
+	border: solid 1px #ddd;
 }
 
 #guessingNumber {
@@ -33,7 +33,7 @@ h1{
 	display: inline-block;
 	padding: 10px;
 	margin-top: 20px;
-	border: solid 1px #ddd
+	border: solid 1px #ddd;
 }
 
 #scoreboard {
@@ -42,25 +42,22 @@ h1{
 	padding: 15px 20px 10px 15px;
 	margin-top: 20px;
 	margin-left: 20px;
-	border: solid 1px #ddd
-
+	border: solid 1px #ddd;
 }
 
 #crystals {
 	margin-top: 15px;
 	margin-bottom:26px;
-
 }
 
 .crystalImage {
 	height: 111px;
 	border: solid 1px #272525;
-	margin-left: 10px
+	margin-left: 10px;
 }
 
 .crystalImage:firstchild {
 	margin-left: 0px;
-
 }
 
 #totalScore {
@@ -71,5 +68,5 @@ h1{
 	background: #009688;
 	display: inline;
 	padding: 20px;
-	border: solid 1px #ddd
+	border: solid 1px #ddd;
 }
